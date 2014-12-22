@@ -1,0 +1,22 @@
+{
+  "name": "party-line-sub",
+  "version": "1.0.0",
+  "description": "Party Line subsystem interface.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BadOPCode/party-line-sub.git"
+  },
+  "author": "Shawn Rapp",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BadOPCode/party-line-sub/issues"
+  },
+  "homepage": "https://github.com/BadOPCode/party-line-sub",
+  "dependencies": {
+    "JSONStream": "^0.10.0"
+  }
+}
