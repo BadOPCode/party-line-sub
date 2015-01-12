@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/BadOPCode/party-line-sub",
   "dependencies": {
-    "JSONStream": "^0.10.0"
+    "JSONStream": "^0.10.0",
+    "winston": "^0.8.3"
   }
 }
