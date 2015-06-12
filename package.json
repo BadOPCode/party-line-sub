@@ -1,6 +1,6 @@
 {
   "name": "party-line-sub",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Party Line subsystem interface.",
   "main": "index.js",
   "scripts": {
